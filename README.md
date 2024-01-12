@@ -32,9 +32,9 @@ Below is the list of the BSP *component* drivers to be used with this BSP *board
 * [stm32-bsp-common](https://github.com/STMicroelectronics/stm32-bsp-common)
 * [stm32-aps6408](https://github.com/STMicroelectronics/stm32-aps6408)
 * [stm32-hts221](https://github.com/STMicroelectronics/stm32-hts221)
-*  stm32-iis2mdc *To be published soon*
-*  stm32-ism330dhcx *To be published soon*
-*  stm32-lps22hh *To be published soon*
+* [stm32-iis2mdc](https://github.com/STMicroelectronics/stm32-iis2mdc)
+* [stm32-ism330dhcx](https://github.com/STMicroelectronics/stm32-ism330dhcx)
+* [stm32-lps22hh](https://github.com/STMicroelectronics/stm32-lps22hh)
 * [stm32-m24lr64](https://github.com/STMicroelectronics/stm32-m24lr64)
 * [stm32-mx25lm51245g](https://github.com/STMicroelectronics/stm32-mx25lm51245g)
 * [stm32-ov5640](https://github.com/STMicroelectronics/stm32-ov5640)
